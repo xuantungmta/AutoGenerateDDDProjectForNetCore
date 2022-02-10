@@ -1,0 +1,18 @@
+.highlight-wrapper {
+    position: relative;
+    font-size:  1.0em;
+}
+
+.highlight-link {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    color: rgb(64, 224, 11);
+    font-size:  1.0em;
+    padding-right: 8px;
+    padding-top: 1px;
+    text-align: right;
+    position: absolute;
+    padding-bottom: 5px;
+    background: linear-gradient(rgba(64, 224, 11) #2d2d2ded 90%)
+}

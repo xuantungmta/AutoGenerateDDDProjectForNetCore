@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\blog.utils\blog.utils.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FlakeGen">
+      <HintPath>..\..\pkg\FlakeGen\bin\Release\net6.0\FlakeGen.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
