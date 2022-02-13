@@ -1,4 +1,4 @@
-﻿namespace blog.domain.entity
+﻿namespace [$project_name].domain.entity
 {
     public interface IAggregateRoot
     {
