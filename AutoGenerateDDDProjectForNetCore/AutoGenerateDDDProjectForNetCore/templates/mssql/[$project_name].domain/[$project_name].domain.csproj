@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\blog.utils\blog.utils.csproj" />
+    <ProjectReference Include="..\[$project_name].utils\[$project_name].utils.csproj" />
   </ItemGroup>
 
   <ItemGroup>
